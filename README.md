@@ -1,6 +1,9 @@
 # ds_final
 
 A simple Data Science Project. Enjoy it and Star it :star:
+
+Check `Slide.pdf` to see how it works.
+
 ## Group info:
 
 No. 15
